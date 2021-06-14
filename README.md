@@ -1,3 +1,3 @@
-# GeeksforGeeks GIET U Gunupur
+# GeeksforGeeks GIETU Gunupur
 
 GFG Student Chapter website.
